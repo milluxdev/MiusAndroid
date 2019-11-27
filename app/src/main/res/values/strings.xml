@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mius</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_card">卡片搜索</string>
+    <string name="menu_deck">卡组编辑</string>
+    <string name="menu_mine">我的</string>
+    <string name="logo_text">感谢您对我们的支持</string>
+</resources>

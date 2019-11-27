@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/menu_home" />
+
+    <item
+        android:id="@+id/menu_deck"
+        android:icon="@drawable/ic_deck_list_black_24dp"
+        android:title="@string/menu_deck" />
+
+    <item
+        android:id="@+id/menu_card"
+        android:icon="@drawable/ic_card_search_black_24dp"
+        android:title="@string/menu_card" />
+
+
+    <item
+        android:id="@+id/menu_mine"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/menu_mine" />
+
+</menu>
